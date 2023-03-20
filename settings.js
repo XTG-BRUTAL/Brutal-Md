@@ -6,7 +6,7 @@ const {
    spanyol
 } = require(`./language`)
 
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
@@ -35,7 +35,7 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
@@ -43,14 +43,14 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Brutal-Md" //namabot kalian
 global.ownername = "Brutal - Arnab" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://brutalexe.github.io" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@exe4us" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.myweb2 = "https://brutalexe.github.io" //bebas
 global.email = "arnabbarman7979@gmail.com" //bebas
 global.region = "India" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['919101765679'] //premium user
-global.owner = ["919101765679", "62821931157232"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["919101765679", "48459088571"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "919101765679" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
